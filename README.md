@@ -4,10 +4,10 @@ Short Message Service or SMS considered to be the text messaging service compone
 
 Main task of this case study is making a Machine Learning model which can predict the SMS as HAM or SPAM with the help of text body of SMS. Dataset for this case study can be found at Kaggle. It consist of 5574 English text messages which are labeled as Ham or Spam
 
-![image1](images\image1.png)
+![image1](images/image1.png)
 
-![image1](images\image2.png)
+![image2](images/image2.png)
 
-![image1](images\image3.png)
+![image3](images/image3.png)
 
-![image1](images\image4.png)
+![image4](images/image4.png)
